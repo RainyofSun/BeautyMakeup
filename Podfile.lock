@@ -1,0 +1,145 @@
+PODS:
+  - AgoraRtcEngine_iOS (4.2.1):
+    - AgoraRtcEngine_iOS/AIAEC (= 4.2.1)
+    - AgoraRtcEngine_iOS/AINS (= 4.2.1)
+    - AgoraRtcEngine_iOS/AudioBeauty (= 4.2.1)
+    - AgoraRtcEngine_iOS/ClearVision (= 4.2.1)
+    - AgoraRtcEngine_iOS/ContentInspect (= 4.2.1)
+    - AgoraRtcEngine_iOS/DRM (= 4.2.1)
+    - AgoraRtcEngine_iOS/FaceDetection (= 4.2.1)
+    - AgoraRtcEngine_iOS/ReplayKit (= 4.2.1)
+    - AgoraRtcEngine_iOS/RtcBasic (= 4.2.1)
+    - AgoraRtcEngine_iOS/SpatialAudio (= 4.2.1)
+    - AgoraRtcEngine_iOS/VideoCodecDec (= 4.2.1)
+    - AgoraRtcEngine_iOS/VideoCodecEnc (= 4.2.1)
+    - AgoraRtcEngine_iOS/VirtualBackground (= 4.2.1)
+    - AgoraRtcEngine_iOS/VQA (= 4.2.1)
+  - AgoraRtcEngine_iOS/AIAEC (4.2.1)
+  - AgoraRtcEngine_iOS/AINS (4.2.1)
+  - AgoraRtcEngine_iOS/AudioBeauty (4.2.1)
+  - AgoraRtcEngine_iOS/ClearVision (4.2.1)
+  - AgoraRtcEngine_iOS/ContentInspect (4.2.1)
+  - AgoraRtcEngine_iOS/DRM (4.2.1)
+  - AgoraRtcEngine_iOS/FaceDetection (4.2.1)
+  - AgoraRtcEngine_iOS/ReplayKit (4.2.1)
+  - AgoraRtcEngine_iOS/RtcBasic (4.2.1)
+  - AgoraRtcEngine_iOS/SpatialAudio (4.2.1)
+  - AgoraRtcEngine_iOS/VideoCodecDec (4.2.1)
+  - AgoraRtcEngine_iOS/VideoCodecEnc (4.2.1)
+  - AgoraRtcEngine_iOS/VirtualBackground (4.2.1)
+  - AgoraRtcEngine_iOS/VQA (4.2.1)
+  - Alamofire (5.9.1)
+  - CocoaLumberjack/Core (3.8.5)
+  - CocoaLumberjack/Swift (3.8.5):
+    - CocoaLumberjack/Core
+  - CryptoSwift (1.5.1)
+  - EmptyDataSet-Swift (5.0.0)
+  - HandyJSON (5.0.2)
+  - KeychainAccess (4.2.2)
+  - Kingfisher (7.9.1)
+  - LLSegmentViewController (1.1.13)
+  - MJRefresh (3.7.5)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Reachability (3.2)
+  - SDWebImage (5.19.1):
+    - SDWebImage/Core (= 5.19.1)
+  - SDWebImage/Core (5.19.1)
+  - SHFullscreenPopGestureSwift (1.2.1)
+  - SnapKit (5.6.0)
+  - SwiftyJSON (4.3.0)
+  - SwiftyStoreKit (0.16.1)
+  - Toast-Swift (5.0.1)
+  - TZImagePickerController (3.8.3):
+    - TZImagePickerController/Basic (= 3.8.3)
+    - TZImagePickerController/Location (= 3.8.3)
+  - TZImagePickerController/Basic (3.8.3)
+  - TZImagePickerController/Location (3.8.3)
+  - YBImageBrowser (3.0.9):
+    - YBImageBrowser/Core (= 3.0.9)
+  - YBImageBrowser/Core (3.0.9):
+    - SDWebImage (>= 5.0.0)
+    - YYImage
+  - YBImageBrowser/Video (3.0.9):
+    - YBImageBrowser/Core
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - ZSSnapshotKit (0.0.2)
+
+DEPENDENCIES:
+  - AgoraRtcEngine_iOS (= 4.2.1)
+  - CocoaLumberjack/Swift
+  - CryptoSwift (~> 1.5.1)
+  - EmptyDataSet-Swift (= 5.0.0)
+  - HandyJSON (= 5.0.2)
+  - KeychainAccess (= 4.2.2)
+  - Kingfisher (= 7.9.1)
+  - LLSegmentViewController (= 1.1.13)
+  - MJRefresh (= 3.7.5)
+  - Moya (= 15.0.0)
+  - Reachability (= 3.2)
+  - SHFullscreenPopGestureSwift (= 1.2.1)
+  - SnapKit (= 5.6.0)
+  - SwiftyJSON (= 4.3.0)
+  - SwiftyStoreKit (= 0.16.1)
+  - Toast-Swift (= 5.0.1)
+  - TZImagePickerController (= 3.8.3)
+  - YBImageBrowser (= 3.0.9)
+  - YBImageBrowser/Video
+  - ZSSnapshotKit (= 0.0.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AgoraRtcEngine_iOS
+    - Alamofire
+    - CocoaLumberjack
+    - CryptoSwift
+    - EmptyDataSet-Swift
+    - HandyJSON
+    - KeychainAccess
+    - Kingfisher
+    - LLSegmentViewController
+    - MJRefresh
+    - Moya
+    - Reachability
+    - SDWebImage
+    - SHFullscreenPopGestureSwift
+    - SnapKit
+    - SwiftyJSON
+    - SwiftyStoreKit
+    - Toast-Swift
+    - TZImagePickerController
+    - YBImageBrowser
+    - YYImage
+    - ZSSnapshotKit
+
+SPEC CHECKSUMS:
+  AgoraRtcEngine_iOS: bbbacbf4797a6f85532c6023b72c4d66f2b49227
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  CocoaLumberjack: 6a459bc897d6d80bd1b8c78482ec7ad05dffc3f0
+  CryptoSwift: c4f2debceb38bf44c80659afe009f71e23e4a082
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  LLSegmentViewController: 155fc9546ba350d348c5e5069c8c7e35a2a67f3d
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
+  SHFullscreenPopGestureSwift: 96c20749695c8fbf14a29feb5ece469d7a909a41
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  TZImagePickerController: e9909edbadf7381140efc5b5c9f5bdbfd630f7d4
+  YBImageBrowser: 7ecc8bf33ffa5f3b94c397c29b4f3638dd37f527
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  ZSSnapshotKit: 8dc94144d9467f7d1612aa950d01087f5c9c32e4
+
+PODFILE CHECKSUM: 6d5dae6bdbee1fb33b024e3125061e19db2d4e11
+
+COCOAPODS: 1.15.2
